@@ -1,3 +1,0 @@
-# my-practice
-linux 
-HI
